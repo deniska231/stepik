@@ -2,14 +2,15 @@
 // Name        : 2022_test_stepik.cpp
 // Author      : 
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Copyright   :
+// Description : First Stepik exercise
 //============================================================================
 
 #include <iostream>
-using namespace std;
 
-int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+int main()
+{
+	std::cout << "Hello World!\n";
+	system("pause");
 	return 0;
 }
